@@ -1,0 +1,42 @@
+O projeto consistiu na criação de um site completo utilizando HTML e CSS, aplicando boas práticas de organização de arquivos e estruturação de código.
+Além de criar o layout, foi feita a organização das imagens em uma pasta dedicada e a atualização dos links nos arquivos HTML e CSS.
+
+foi aprendido Estrutura básica do HTML:
+Criação e uso correto de tags semânticas (<header>, <main>, <footer>, <nav>, etc.).
+
+Uso de tags de conteúdo como <p>, <h1>, <h2>, <img>, <a>.
+
+Estruturação de um documento HTML com:
+
+<!DOCTYPE html> para indicar o padrão HTML5.
+
+<html lang="pt-BR"> para definir idioma.
+
+<head> para metadados e importação de arquivos CSS.
+
+<body> para o conteúdo visível.
+
+Trabalhando com CSS
+Linkar arquivos CSS externos com <link rel="stylesheet">.
+
+Seletores CSS (.classe, #id, elemento) para aplicar estilos.
+
+Propriedades fundamentais:
+
+Cores (color, background-color).
+
+Tipografia (font-family, font-size, text-align).
+
+Tamanhos e espaçamentos (margin, padding, width, height).
+
+Imagens de fundo (background-image, background-size).
+
+Uso de reset.css para padronizar estilos em diferentes navegadores.
+
+separação de imagens em uma pasta dedicada (imagens/) para facilitar manutenção.
+
+Atualização de todos os caminhos das imagens no HTML e CSS para refletir a nova estrutura.
+
+Organização do código para melhorar legibilidade e facilitar futuras alterações.
+
+Com esse projeto aprendemos a base fundamental de um desenvolvedor Front-end
